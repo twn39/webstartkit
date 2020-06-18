@@ -2950,7 +2950,5 @@ let Greeting = _decorate(null, function (_initialize, _LitElement) {
 }, LitElement);
 
 // @ts-nocheck
-// Register the new element with the browser.
-
 customElements.define('x-greeting', Greeting);
 //# sourceMappingURL=bundle.js.map
